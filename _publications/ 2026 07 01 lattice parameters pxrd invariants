@@ -1,0 +1,11 @@
+---
+title: "Learning Lattice Parameters from Powder X-Ray Diffraction Data Using Invariants"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-07-01-lattice-parameters-pxrd-invariants
+excerpt: 'A transformer encoder that predicts bispectrum invariants from powder XRD patterns as an intermediate representation for lattice parameter reconstruction.'
+date: 2026-07-01
+venue: 'Acta Crystallographica Section A (accepted)'
+paperurl: 'https://arxiv.org/abs/2607.21829'
+citation: 'E. Hofgard, <b>K. Min</b>, N. Segal, D. W. Mittan-Moreau, A. M. Tehrani, V. Oklejas, R. Gómez-Bombarelli, J. Nigam, D. W. Paley, A. S. Brewster, T. Smidt. "Learning Lattice Parameters from Powder X-Ray Diffraction Data Using Invariants." <i>Acta Crystallographica Section A</i> (accepted), 2026. arXiv:2607.21829.'
+---
