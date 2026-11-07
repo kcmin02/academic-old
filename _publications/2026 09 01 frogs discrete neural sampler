@@ -2,8 +2,6 @@
 title: "FrOGS: Discrete Neural Sampler for Independent Alloy Configurations Across Chemical Conditions"
 collection: publications
 category: conferences
-permalink: /publication/2026-09-01-frogs-discrete-neural-sampler
-excerpt: 'A discrete neural sampler that couples an autoregressive model to a learned continuous-time Markov chain to generate independent Boltzmann-distributed alloy configurations across chemical conditions.'
 date: 2026-09-01
 venue: 'NeurIPS AI4Mat Workshop (Spotlight)'
 paperurl: 'https://arxiv.org/abs/2609.02948'
