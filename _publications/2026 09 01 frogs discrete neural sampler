@@ -1,0 +1,13 @@
+---
+title: "FrOGS: Discrete Neural Sampler for Independent Alloy Configurations Across Chemical Conditions"
+collection: publications
+category: conferences
+permalink: /publication/2026-09-01-frogs-discrete-neural-sampler
+excerpt: 'A discrete neural sampler that couples an autoregressive model to a learned continuous-time Markov chain to generate independent Boltzmann-distributed alloy configurations across chemical conditions.'
+date: 2026-09-01
+venue: 'NeurIPS AI4Mat Workshop (Spotlight)'
+paperurl: 'https://arxiv.org/abs/2609.02948'
+citation: '<b>K. Min</b>, E. Hofgard, T. Smidt. "FrOGS: Discrete Neural Sampler for Independent Alloy Configurations Across Chemical Conditions." <i>NeurIPS AI4Mat Workshop (Spotlight)</i>, 2026. arXiv:2609.02948.'
+---
+
+A multicomponent extension is in preparation for *npj Computational Materials*.
